@@ -1,4 +1,4 @@
-Halo saya Malik (nama samaran), saya seorang pemula yang sedang belajar coding 👏
+Halo saya Malik, saya seorang pemula yang sedang belajar coding 👏
 Saya tertarik untuk memulai Programing 🤓
 Belum banyak bahasa pemrograman yang telah saya pelajari 😁
 Itupun sudah lupa semua sekarang 😅
