@@ -1,3 +1,4 @@
+```bash
 Halo saya Malik, saya seorang pemula yang sedang belajar coding 👏
 Saya tertarik untuk memulai Programing 🤓
 Belum banyak bahasa pemrograman yang telah saya pelajari 😁
@@ -8,3 +9,4 @@ Meskipun hanya didepan komputer 🖥️
 
 MUNGKIN ITU SAJA PERKENALAN DARI SAYA.🫡
 TERIMAKASIH TELAH MENYEMPATKAN WAKTU UNTUK MEMBACA.🥰
+```
