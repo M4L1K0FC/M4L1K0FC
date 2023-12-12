@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **maalicxdev@gmail.com**
+- 📫 How to reach me **undefined@gmail.com**
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TZSEC7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
